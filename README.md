@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou o Erick 👋
 
-<!--
-**erick144hz/erick144hz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, estou trabalhando com desenvolvimento Back-End.
+- 🌱 Estou aprendendo C++ e C#.
+- 👯 Estou procurando colaborar em projetos de Back-End e C#.
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+![Reck GitHub stats](https://github-readme-stats.vercel.app/api?username=erick144hz&show_icons=true&theme=dracula)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Entre em Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/seu-linkedin-aqui/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/seu-instagram-aqui/)
+
+### 🛠️ Habilidades
+
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-68217A?style=flat&logo=csharp&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+### 🌟 Citação
+
+_"Tudo que é facil desconfie."_ - Deus é fiel
