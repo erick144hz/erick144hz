@@ -1,9 +1,9 @@
-## Olá, eu sou o Erick 👋
+## Opa, Eu sou Reck 👋
 
 - 🔭 Atualmente, estou trabalhando com desenvolvimento Back-End.
 - 🌱 Estou aprendendo C++ e C#.
 - 👯 Estou procurando colaborar em projetos de Back-End e C#.
-- 😄 Pronomes: ele/dele
+
 
 ![Reck GitHub stats](https://github-readme-stats.vercel.app/api?username=erick144hz&show_icons=true&theme=dracula)
 
