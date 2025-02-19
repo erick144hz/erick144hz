@@ -5,7 +5,7 @@
 - 👯 Estou procurando colaborar em projetos de Back-End e C#.
 
 
-![Reck GitHub stats](https://github-readme-stats.vercel.app/api?username=erick144hz&show_icons=true&theme=dracula)
+![Reck GitHub stats](https://github-readme-stats.vercel.app/api?username=erick144hz&show_icons=true&theme=dark)
 
 ### 📫 Entre em Contato
 
