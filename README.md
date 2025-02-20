@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://discord.com/users/1012779789007986778" target="_blank"><img src="https://img.shields.io/badge/-Discord-0f0f0f?style=for-the-badge&logo=discord&logoColor=ffffff" /></a>
-  <a href="[https://youtube.com/@reck.optimizer](https://www.youtube.com/@reck.optimizer)" target="_blank"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
+  <a href="[https://www.youtube.com/@reck.optimizer](https://www.youtube.com/@reck.optimizer)" target="_blank"><img src="https://img.shields.io/badge/-YouTube-0f0f0f?style=for-the-badge&logo=youtube&logoColor=ffffff" /></a>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
